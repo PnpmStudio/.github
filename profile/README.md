@@ -1,22 +1,22 @@
 # PNPM Studio
 
-Cybersécurité pour les particuliers : audit, sécurisation réseau et tests d'intrusion autorisés.
+Cybersecurity for individuals: security audits, network hardening and authorized penetration testing.
 
-## Nos interventions
+## Services
 
-- **Audit de sécurité** : identifier les points faibles et les corrections prioritaires.
-- **Sécurisation réseau** : renforcer les réglages de la box, du Wi-Fi et des équipements connectés.
-- **Tests d'intrusion autorisés** : vérifier les protections dans un périmètre défini avec l'accord du propriétaire.
+- **Security audits**: identify weaknesses and prioritize fixes.
+- **Network hardening**: strengthen router, Wi-Fi and connected device settings.
+- **Authorized penetration testing**: assess protections within an agreed scope and with the owner's authorization.
 
-## Notre approche
+## Approach
 
-1. **Préparer** — Nous choisissons avec vous les équipements à vérifier et les tests à réaliser.
-2. **Vérifier** — Nous effectuons les tests prévus et vérifions les problèmes détectés.
-3. **Expliquer** — Nous vous expliquons les résultats et les corrections à effectuer, par ordre d'importance.
+1. **Prepare** — We agree with you on the equipment to assess and the tests to carry out.
+2. **Assess** — We carry out the agreed tests and verify any issues we identify.
+3. **Explain** — We explain the findings and the fixes to make, in order of importance.
 
 ## Contact
 
-Décrivez-nous ce que vous souhaitez sécuriser.
+Tell us what you would like to secure.
 
 - [pnpmstudio.com](https://www.pnpmstudio.com/)
 - [contact@pnpmstudio.com](mailto:contact@pnpmstudio.com)
